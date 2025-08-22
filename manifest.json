@@ -1,0 +1,11 @@
+{
+  "display_name": "酒馆log",
+  "loading_order": 100,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "author": "hydraelin",
+  "version": "1.0",
+  "homePage": "https://github.com/hydraelin/st-ConsoleLogger",
+  "auto_update": true
+}
