@@ -1,11 +1,10 @@
 {
-  "display_name": "酒馆log",
-  "loading_order": 100,
-  "requires": [],
-  "optional": [],
-  "js": "index.js",
-  "author": "hydraelin",
-  "version": "1.0",
-  "homePage": "https://github.com/hydraelin/st-ConsoleLogger",
-  "auto_update": true
+    "id": "message-monitor",
+    "display_name": "Message Monitor",
+    "version": "1.0.0",
+    "description": "监听消息并输出发送人、内容和长度信息",
+    "author": "Your Name",
+    "main": "index.js",
+    "dependencies": [],
+    "permissions": ["read_messages"]
 }
